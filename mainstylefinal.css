@@ -1,0 +1,128 @@
+body {
+    overflow-x: hidden;
+}
+
+h3 {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#entete {
+    /*/border: 1px solid black;/*/
+    height: 75px;
+    padding: 25px;
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    margin: -10px;
+}
+
+strong {
+    color: #FF5A5F;
+}
+
+#colonne {
+  margin-left: -25px;
+    width: inherit;
+}
+#départ {
+  margin-right: 15px;
+}
+#destination{
+  margin-left: 17px;
+  margin-right: 27px;
+}
+
+#titreppal {
+    /*/border: 1px solid black;/*/
+    height: 200px;
+    padding: 25px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+#menunu {
+    /*border: 1px solid black;*/
+    height: 50px;
+}
+
+#menubar {
+    border: 1px solid #DCE0E0;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+#singlebutton {
+    margin-top: 15px;
+    float: right;
+}
+
+#footer {
+  width: 100%;
+    display: inline-block;
+    margin-top: 80px;
+    padding-top: 50px;
+    border-top: .5px solid #DEDEDE;
+}
+
+.title_link {
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    margin-bottom: 22px;
+}
+
+.link {
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(118, 118, 118);
+    margin-top: -10px;
+}
+
+#footer_copyright {
+    border-top: .5px solid #DEDEDE;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    padding-top: 40px;
+    color: rgb(118, 118, 118);
+}
+
+#conditions {
+    margin-top: 22px;
+}
+
+p a {
+    color: inherit;
+}
+
+p a:hover {
+    color: grey;
+}
+
+h6 a {
+    color: inherit;
+}
+
+h6 a:visited {
+    color: inherit;
+}
+
+h6 a:hover {
+    color: grey;
+}
+
+h3 a {
+    color: inherit;
+}
+
+h3 a:visited {
+    color: inherit;
+}
+
+h3 a:hover {
+    color: grey;
+}
